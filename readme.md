@@ -2,6 +2,8 @@
 # Krill
 Krill is a wireless, multi-camera livestreaming solution. **Warning:** This repo does not aim to be a ready to install Application.
 
+http://www.apeunit.com/en/krill/
+
 ## License
 Krill is licensed under The MIT License.
 For full copyright and license information, please see the LICENSE.txt.
