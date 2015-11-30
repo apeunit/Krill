@@ -1,0 +1,15 @@
+/webinterface/Config/database.php
+/webinterface/Config/credentials.php
+/webinterface/tmp
+/webinterface/webroot/uploads
+/webinterface/docs/key_rsa
+/webinterface/docs/key_rsa.pub
+
+/clients/config.py
+
+.DS_Store
+*.pyc
+.project
+.pydevproject
+.buildpath
+.settings
